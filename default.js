@@ -1,5 +1,5 @@
 $(document).ready(function(e) {
-        
+        /**/
         var fade = function(){
                 $(".mask").fadeToggle(500,function(){
                         $(this).parent().on("click",function(){
